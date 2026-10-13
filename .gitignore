@@ -1,0 +1,18 @@
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+.md
+
+# Claude Code local session files
+.claude/
+
+# Temp/backup files
+*.tmp
+*.bak
+*~
