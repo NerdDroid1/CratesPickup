@@ -1,3 +1,4 @@
 name=Carry Full Crates
 id=CarryFullCrates
-description=Pick up crates that still have items inside.\nThe crate is carried in both hands and weighs its base weight plus everything in it, and it cannot be stashed in bags.\nWorks with wooden, metal, military and shipping crates - including crates and items added by other mods. This is meant to save you some time when moving base locations, as let's get real, that's a major pain to unload everything into a car and then reload it all again. The full code can be found here -  https://github.com/NerdDroid1poster=poster.png
+description=Pick up crates that still have items inside.\nThe crate is carried in both hands and weighs its base weight plus everything in it, and it cannot be stashed in bags.\nWorks with wooden, metal, military and shipping crates - including crates and items added by other mods. This is meant to save you some time when moving base locations, as let's get real, that's a major pain to unload everything into a car and then reload it all again. The full code can be found here -  https://github.com/NerdDroid1/
+poster=poster.png
