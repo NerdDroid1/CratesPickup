@@ -1,11 +1,11 @@
-version=1
+version=1.1
 title=Carry Full Crates [B42]
 description=[h1]Carry Full Crates[/h1]
 description=Pick up crates that still have items inside - no more emptying the entire crate just to move it.
 description=
 description=[h2]Features[/h2]
 description=[list]
-description=[*]The crate is carried in both hands and the weight is determined by what's in the crate. You do lose your primary and secondary weapons slots while holding the crates.
+description=[*]The crate is carried in both hands and the weight is determined by the crate type and then calculated by dividing the crates contents in half. You will walk similar to how you hold a generator in game.
 description=[*]Loaded crates cannot be stashed in bags.
 description=[*]Works with wooden, metal, military and shipping crates, including crates and items added by other mods.
 description=[*]Contents are saved when picked up and restored when placed back down.
@@ -15,6 +15,6 @@ description=Mod ID: CarryFullCrates
 description=
 description=[h2]Support the mod[/h2]
 description=If you enjoy this mod, donations are welcome and appreciated.
-description=[url=https://paypal.me/nerddroid][img]https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif[/img][/url]
+description=[url=https://paypal.me/nerddroid][img]https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif[/img][/url]
 tags=Build 42;Misc;Multiplayer
 visibility=public

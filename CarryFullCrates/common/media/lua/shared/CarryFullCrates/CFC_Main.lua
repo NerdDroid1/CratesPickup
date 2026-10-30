@@ -1,10 +1,7 @@
 --[[
 	Carry Full Crates - core module (shared)
 
-	Provides crate detection, container serialization, and weight math.
-	Other mods can extend crate detection at load time:
-		CarryFullCrates.AddContainerType("mycrate")
-		CarryFullCrates.AddSpritePattern("mycrate")
+	Provides crate detection, container inventory, and container weight calculations.
 ]]
 
 CarryFullCrates = CarryFullCrates or {}
